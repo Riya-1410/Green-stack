@@ -1,5 +1,7 @@
 # 🌿 Green Stack (Frontend Only)
 
+🚀 **Live Demo:** [green-stack-one.vercel.app](https://green-stack-one.vercel.app)
+
 A modern, fresh UI built for a food delivery platform.  
 Currently focused only on frontend — built using **React**, **Vite**, and **TailwindCSS**.
 
